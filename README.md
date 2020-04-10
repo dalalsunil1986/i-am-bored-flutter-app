@@ -1,4 +1,4 @@
-# I Am Bored Flutter App
+# I Am Bored Flutter App 🥱
 
 
 You can <br>
